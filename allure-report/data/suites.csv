@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Jul 08 17:32:17 EEST 2022","Fri Jul 08 17:32:22 EEST 2022","5390","","org.sweetness.SignInUserTest","","org.sweetness.SignInUserTest","signInUserTest","signInUserTest",""
+"passed","Fri Jul 08 17:32:33 EEST 2022","Fri Jul 08 17:32:49 EEST 2022","15942","","org.sweetness.AddNewUserAddressTest","","org.sweetness.AddNewUserAddressTest","addUserAddress","addUserAddress",""
+"broken","Fri Jul 08 17:32:06 EEST 2022","Fri Jul 08 17:32:07 EEST 2022","526","","org.sweetness.AddNewUserInfoTest","","org.sweetness.AddNewUserInfoTest","updateUserInfo","updateUserInfo",""
+"broken","Fri Jul 08 17:30:56 EEST 2022","Fri Jul 08 17:31:39 EEST 2022","42971","","org.sweetness.SignUpUserTest","","org.sweetness.SignUpUserTest","signUpUserTest","signUpUserTest",""
